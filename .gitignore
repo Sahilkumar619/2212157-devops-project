@@ -2,6 +2,8 @@
 .env
 *.env
 *.pem
+.env.production
+*Zone.Identifier
 
 # Python
 __pycache__/
